@@ -8,7 +8,7 @@ export class PlayoffGame {
         this.base.setAttribute("id", "container")
         this.parent.append(this.base);
         var paragraph = document.createElement('p');
-        paragraph.innerText = "Hello world!";
+        paragraph.innerText = "Hello Lilly!";
         this.base.append(paragraph);
     }
 
